@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>My name is Chamith</h1>
+    <h1>Earth Bit Galle</h1>
     <form action="server.php" method="post">
         Name : <input type="text" name="name" value="<?php if(isset($_COOKIE['username'])) echo $_COOKIE['username'] ?>"><br><br>
         Password : <input type="password" name="pwd" value="<?php if(isset($_COOKIE['password'])) echo $_COOKIE['password'] ?>"><br><br>
