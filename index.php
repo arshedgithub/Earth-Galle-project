@@ -25,7 +25,7 @@
 </head>
 <body>
 
-    <h1>Earth Bit Galle</h1>
+    <h1><u>Earth Bit Galle</u></h1>
 
     <form action="server.php" method="post">
     <h1>EUC Portal</h1>
