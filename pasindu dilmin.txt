@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-create by pasindu dilmin
-=======
-This is Chamith
->>>>>>> 9171810312f198baff061f28dd9df91c5d6e1e5d
