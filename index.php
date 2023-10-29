@@ -26,6 +26,7 @@
 <body>
 
     <h1><u>Earth Bit Galle</u></h1>
+    <h3>This is open to all earth institute studens.</h3>
 
     <form action="server.php" method="post">
     <h1>EUC Portal</h1>
