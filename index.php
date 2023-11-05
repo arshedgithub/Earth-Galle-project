@@ -8,6 +8,7 @@
 <body>
     <div class="login-container">
         <div class="login-card">
+            <h1>Thisaru is a good boy</h1>
             <form action="server.php" method="post">
                 <h1>EUC Portal</h1>
                 <div class="label">
