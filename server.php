@@ -13,5 +13,6 @@
         setCookie("username", $_POST['name'], time()+86400);
         setCookie("password",  $_POST['pwd'], time()+86400);
     }
+    
 
 ?>

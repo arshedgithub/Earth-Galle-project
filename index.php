@@ -9,9 +9,9 @@
     <div class="login-container">
         <div class="login-card">
             <form action="server.php" method="post">
-                <h1>EUC Portal</h1>
+                <h1>EUC Portal - Galle</h1>
                 <div class="label">
-                    <label for="name">Name : </label>
+                    <label for="name">First Name : </label>
                     <input type="text" name="name" value="<?php if (isset($_COOKIE['username'])) echo $_COOKIE['username'] ?>">
                 </div>
                 <div class="label">
