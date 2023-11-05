@@ -6,9 +6,6 @@
 </head>
 
 <body>
-    <h1><u>Earth Bit Galle</u></h1>
-    <h3>This is open to all earth institute studens.</h3>
-
     <div class="login-container">
         <div class="login-card">
             <form action="server.php" method="post">
