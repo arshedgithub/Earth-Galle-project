@@ -4,7 +4,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgb(166, 44, 121);
+  background: violet;
   background: linear-gradient(
     135deg,
     rgba(166, 44, 121, 1) 0%,
